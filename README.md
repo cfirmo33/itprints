@@ -33,6 +33,7 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 - [Linux Is My Problem](https://tee4it.com/linux/linux-is-my-problem/)
 - [Top 100 Distrowatch](https://tee4it.com/linux/distrowatch-top-100-linux-distros/)
 - [JUST SUDO IT](https://tee4it.com/linux/linux-just-sudo-it/)
+- [Kali Linux Obey-Style](https://tee4it.com/linux/kali-linux-obey-style/)
 
 ### Programming
 - [Coding Is My Codeine](https://tee4it.com/software-development/coding-is-my-codeine/)
