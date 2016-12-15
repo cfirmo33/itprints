@@ -6,7 +6,7 @@ Free designer's prints and wall posters in high resolution for IT Professionals.
 
 For custom requests and more information, please visit [TEE4IT](HTTPS://TEE4IT.COM) website
 
-For getting updates when new posters are published, follow the project on [Twitter](https://twitter.com/tee4it), [Instagram](https://www.instagram.com/tee4it/) and [Facebook](https://www.facebook.com/Tee4it-187646978350800/)
+For getting updates when new posters are published, follow the project on [Twitter](https://twitter.com/tee4it)
 
 # License
 
@@ -35,6 +35,7 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 - [JUST SUDO IT](https://tee4it.com/linux/linux-just-sudo-it/)
 - [Kali Linux Obey-Style](https://tee4it.com/linux/kali-linux-obey-style/)
 - [CentOS Before Hoes](https://tee4it.com/linux/centos-before-hoes/)
+- [Linux Is Coming](https://tee4it.com/linux/linux-is-coming/)
 
 ### Programming
 - [Coding Is My Codeine](https://tee4it.com/software-development/coding-is-my-codeine/)
@@ -77,6 +78,7 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 - [The Sysadmin](https://tee4it.com/information-technology/the-sysadmin/)
 - [House Windows](https://tee4it.com/information-technology/house-windows/)
 - [Build you Shitty Career](https://tee4it.com/information-technology/build-your-shitty-career/)
+- [In Case Of Emergency](https://tee4it.com/information-technology/in-case-of-emergency/)
 
 ### Management
 - [Wotzefack Driven Development](https://tee4it.com/category/project-management/)
@@ -85,3 +87,4 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 
 ### Geek
 - [Smashup](https://tee4it.com/geek/modern-emotions/)
+- [In Case Of Emergency](https://tee4it.com/information-technology/in-case-of-emergency/)
