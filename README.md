@@ -42,7 +42,7 @@ All artwork is distributed under [CC BY-NC-ND 3.0 US](https://creativecommons.or
 - [Typographic Linux Logo](https://tee4it.com/linux/pythonpythoff-python-programming-t-shirt-and-wall-poster/)
 - [Arch Linux N1 Brand](https://tee4it.com/linux/arch-linux-n1-brand/)
 - [I Love Linux And My Daddy](https://tee4it.com/linux/i-love-linux-and-my-daddy/)
-- [The Linux King](https://tee4it.com/linux/typographic-linux-t-shirt-and-wall-poster/)\\
+- [The Linux King](https://tee4it.com/linux/typographic-linux-t-shirt-and-wall-poster/)
 - [Arch Vintage](https://tee4it.com/linux/arch-vintage/)
 - [Godfather Tux](https://tee4it.com/linux/godfather-tux/)
 - [Fedora Vintage](https://tee4it.com/linux/fedora-vintage/)
